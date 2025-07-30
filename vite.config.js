@@ -12,6 +12,5 @@ export default defineConfig({
     plugins: [
       react(),
       tailwindcss(),
-    base: "/yash_portfolio",
   ],
 })
